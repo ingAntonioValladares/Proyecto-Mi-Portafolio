@@ -1,5 +1,5 @@
-# Nombre de tu Proyecto
-Proyecto Mi Portafolio 
+# Proyecto Mi Portafolio 
+Este proyecto se realizo con la finalidad de dar una breve introduccion sobre mi persona y enseñar mis proyectos realizados
 
 ## Contribuciones
 Si deseas contribuir, por favor abre un pull request.
